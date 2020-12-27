@@ -1,6 +1,16 @@
+#GitHUB Original MIT Licence informations concerning Amos Professional AGA (The X Project)
+
+With the fact that I made several changes (huge works), I had the choice to decide to :
+1. Makes the Amos Professional AGA (The X Project) remaining closed-source project, with a new license term of my choice (MIT Licence allow this)
+2. Makes the Amos Professional AGA (The X Project) being Open Sourced MIT license like the Original François Lionet Amos Professional.
+
+I did choose the 2nd option. So here is the LICENSE terme :
+
 MIT License
 
-Copyright (c) 2020 Cordier Frédéric
+Copyright (c) 1992 Europress Software
+Copyright (c) 2020 Francois Lionet (Original Amos Professional : https://github.com/AOZ-Studio/AMOS-Professional-Official )
+Copyright (c) 2020-2021 Cordier Frédéric (Amos Professional AGA (The X Project) : https://github.com/AmiDARK/Amos-Professional-X-Source-Code-Official )
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
