@@ -17,7 +17,7 @@ The MIT License only requires that the license text available here : https://mit
 be included in all copies or substantial portions of the Software. This mean that the License.txt available in the repository fit the MIT license requirements.
 
 This repository is 68k Assembly and was entirely restructured. It will be really different from the original François Lionet or Marc365 repositories..
-Files names is now more talkative and organized by categories. It is better for developer teams as some files were explosed in parts to make updates easier by development teams.
+Files names are now more talkative and organized by categories. It is better for developer teams as some files were explosed in parts to make updates easier by development teams.
 It is powerful and runs like an operating system. Games and multimedia become exciting to program again, relying on your own skills instead of libraries.
 
 This release is as-is and doesn't contain any installation or demos.
@@ -55,7 +55,6 @@ Amos Professional did get good improvements during 2019. These improvements adde
 With recent minding about future, I decided to restart the project in a more flexible way. It is now called "Amos Professional Unity".
 The Amos Professional AGA (The X Project) is now stopped in its current shape/form. A new project is born and will replace the Amos Professional AGA (The X Project).
 2021 should be the year of the Amos Professional Unity projet.
-The official "Amos Professional AGA (The X Project)" will be maintened to receive now updates for the "Amos Professional Unity" project.
-It is located there : http://amos-professional-aga.frederic-cordier.fr/?amos-professional-aga-x-version
+The official ["Amos Professional AGA (The X Project)"](http://amos-professional-aga.frederic-cordier.fr/?amos-professional-aga-x-version) mini website will be maintened to receive now updates for the "Amos Professional Unity" project.
 Regards,
 AmiDARK
